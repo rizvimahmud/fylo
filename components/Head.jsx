@@ -1,6 +1,6 @@
 import NextHead from "next/head";
 
-const DOMAIN = `https://fylo.so`;
+const DOMAIN = `https://fylo-so.vercel.app/`;
 const description =
   "All your files in one secure location, accessible anywhere";
 const image = `${DOMAIN}/favicon-32x32.png`;
